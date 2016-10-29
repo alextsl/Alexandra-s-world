@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+first repository to learn
+# personal website
+for school projects
